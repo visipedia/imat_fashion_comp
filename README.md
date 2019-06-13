@@ -8,7 +8,6 @@ As shoppers move online, it would be a dream come true to have products in photo
 Tackling issues like this is why the Conference on Computer Vision and Pattern Recognition (CVPR) has put together a workshop specifically for data scientists focused on fine-grained visual categorization called the [FGVC5 workshop](https://sites.google.com/view/fgvc5/home). As part of this workshop, CVPR is partnering with Google, Wish, and [Malong Technologies](https://www.malong.com/en/home) to challenge the data science community to help push the state of the art in automatic image classification.
 
 
-
 ## Kaggle
 We used Kaggle to hold our competiton: https://www.kaggle.com/c/imaterialist-challenge-fashion-2018/
 
