@@ -1,0 +1,229 @@
+labelId,taskId,labelName,taskName
+1,6,Argyle,pattern
+2,9,Asymmetric,style
+3,1,Athletic Pants,category
+4,1,Athletic Sets,category
+5,1,Athletic Shirts,category
+6,1,Athletic Shorts,category
+7,5,Backless Dresses,neckline
+8,1,Baggy Jeans,category
+9,9,Bandage,style
+10,9,Bandeaus,style
+11,1,Batwing Tops,category
+12,1,Beach & Swim Wear,category
+13,9,Beaded,style
+14,2,Beige,color
+15,1,Bikinis,category
+16,1,Binders,category
+17,2,Black,color
+18,1,Blouses,category
+19,2,Blue,color
+20,9,Bodycon,style
+21,1,Bodysuits,category
+22,1,Boots,category
+23,1,Bra Straps,category
+24,2,Bronze,color
+25,2,Brown,color
+26,1,Bubble Coats,category
+27,1,Business Shoes,category
+28,6,Camouflage,pattern
+29,4,Canvas,material
+30,1,Capes & Capelets,category
+31,1,Capri Pants,category
+32,1,Cardigans,category
+33,1,Cargo Pants,category
+34,1,Cargo Shorts,category
+35,4,Cashmere,material
+36,1,Casual Dresses,category
+37,1,Casual Pants,category
+38,1,Casual Shirts,category
+39,1,Casual Shoes,category
+40,1,Casual Shorts,category
+41,4,Chambray,material
+42,6,Checkered,pattern
+43,6,Chevron,pattern
+44,4,Chiffon,material
+45,2,Clear,color
+46,1,Cleats,category
+47,1,Clubbing Dresses,category
+48,1,Cocktail Dresses,category
+49,5,Collared,neckline
+50,4,Corduroy,material
+51,1,Corsets,category
+52,1,Costumes & Cosplay,category
+53,4,Cotton,material
+54,9,Criss Cross,style
+55,6,Crochet,pattern
+56,1,Crop Tops,category
+57,1,Custom Made Clothing,category
+58,1,Dance Wear,category
+59,4,Denim,material
+60,1,Drawstring Pants,category
+61,1,Dress Shirts,category
+62,1,Dresses,category
+63,9,Embroidered,style
+64,1,Fashion Sets,category
+65,4,Faux Fur,material
+66,3,Female,gender
+67,4,Flannel,material
+68,1,Flats,category
+69,4,Fleece,material
+70,6,Floral,pattern
+71,1,Formal Dresses,category
+72,6,Fringe,pattern
+73,9,Furry,style
+74,6,Galaxy,pattern
+75,6,Geometric,pattern
+76,4,Gingham,material
+77,2,Gold,color
+78,2,Gray,color
+79,2,Green,color
+80,1,Halter Tops,category
+81,1,Harem Pants,category
+82,6,Hearts,pattern
+83,1,Heels,category
+84,6,Herringbone,pattern
+85,9,Hi-Lo,style
+86,1,Hiking Boots,category
+87,9,Hollow-Out,style
+88,1,Hoodies & Sweatshirts,category
+89,1,"Hosiery, Stockings, Tights",category
+90,6,Houndstooth,pattern
+91,1,Jackets,category
+92,1,Jeans,category
+93,1,Jerseys,category
+94,1,Jilbaab,category
+95,1,Jumpsuits Overalls & Rompers,category
+96,1,Kimonos,category
+97,4,Knit,material
+98,4,Lace,material
+99,4,Leather,material
+100,1,Leggings,category
+101,6,Leopard And Cheetah,pattern
+102,4,Linen,material
+103,1,Lingerie Sleepwear & Underwear,category
+104,1,Loafers & Slip-on Shoes,category
+105,8,Long Sleeved,sleeve
+106,3,Male,gender
+107,6,Marbled,pattern
+108,2,Maroon,color
+109,1,Maternity,category
+110,6,Mesh,pattern
+111,2,Multi Color,color
+112,4,Neoprene,material
+113,3,Neutral,gender
+114,1,Nightgowns,category
+115,4,Nylon,material
+116,5,Off The Shoulder,neckline
+117,2,Orange,color
+118,4,Organza,material
+119,1,Padded Bras,category
+120,6,Paisley,pattern
+121,1,Pajamas,category
+122,1,Party Dresses,category
+123,1,Pasties,category
+124,4,Patent,material
+125,2,Peach,color
+126,1,Peacoats,category
+127,1,Pencil Skirts,category
+128,9,Peplum,style
+129,1,Petticoats,category
+130,6,Pin Stripes,pattern
+131,2,Pink,color
+132,6,Plaid,pattern
+133,9,Pleated,style
+134,4,Plush,material
+135,6,Polka Dot,pattern
+136,1,Polos,category
+137,4,Polyester,material
+138,9,Printed,style
+139,1,Prom Dresses,category
+140,8,Puff Sleeves,sleeve
+141,1,Pullover Sweaters,category
+142,2,Purple,color
+143,6,Quilted,pattern
+144,5,Racerback,neckline
+145,1,Rain Boots,category
+146,1,Raincoats,category
+147,4,Rayon,material
+148,2,Red,color
+149,9,Reversible,style
+150,9,Rhinestone Studded,style
+151,6,Ripped,pattern
+152,1,Robes,category
+153,5,Round Neck,neckline
+154,6,Ruched,pattern
+155,6,Ruffles,pattern
+156,1,Running Shoes,category
+157,1,Sandals,category
+158,4,Satin,material
+159,6,Sequins,pattern
+160,1,Sheer Tops,category
+161,1,Shoe Accessories,category
+162,1,Shoe Inserts,category
+163,1,Shoelaces,category
+164,8,Short Sleeves,sleeve
+165,1,Shorts,category
+166,5,Shoulder Drapes,neckline
+167,4,Silk,material
+168,2,Silver,color
+169,1,Skinny Jeans,category
+170,1,Skirts,category
+171,8,Sleeveless,sleeve
+172,1,Slippers,category
+173,6,Snakeskin,pattern
+174,1,Sneakers,category
+175,9,Spaghetti Straps,style
+176,4,Spandex,material
+177,1,Sports Bras,category
+178,5,Square Necked,neckline
+179,1,Stilettos,category
+180,8,Strapless,sleeve
+181,6,Stripes,pattern
+182,4,Suede,material
+183,1,Suits & Blazers,category
+184,9,Summer,style
+185,1,Sweatpants,category
+186,5,Sweetheart Neckline,neckline
+187,1,Swim Trunks,category
+188,1,Swimsuit Cover-ups,category
+189,1,Swimsuits,category
+190,1,T-Shirts,category
+191,4,Taffeta,material
+192,2,Tan,color
+193,1,Tank Tops,category
+194,2,Teal,color
+195,1,Thermal Underwear,category
+196,1,Thigh Highs,category
+197,1,Thongs,category
+198,1,Three Piece Suits,category
+199,6,Tie Dye,pattern
+200,1,Trench Coats,category
+201,1,Trousers,category
+202,1,Tube Tops,category
+203,4,Tulle,material
+204,9,Tunic,style
+205,5,Turtlenecks,neckline
+206,1,Tutus,category
+207,4,Tweed,material
+208,4,Twill,material
+209,9,Two-Tone,style
+210,5,U-Necks,neckline
+211,1,Undershirts,category
+212,1,Underwear,category
+213,1,Uniforms,category
+214,5,V-Necks,neckline
+215,4,Velour,material
+216,4,Velvet,material
+217,1,Vests,category
+218,9,Vintage Retro,style
+219,4,Vinyl,material
+220,1,Wedding Dresses,category
+221,1,Wedges & Platforms,category
+222,2,White,color
+223,1,Winter Boots,category
+224,4,Wool,material
+225,9,Wrap,style
+226,2,Yellow,color
+227,1,Yoga Pants,category
+228,6,Zebra,pattern
