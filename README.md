@@ -1,4 +1,4 @@
-# [iMaterialist Challenge on fashion products at FGVC5, CVPR 2018](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018/)
+# [iMaterialist Challenge on fashion at FGVC5, CVPR 2018](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018/)
 
 
 ![wish](imat1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
