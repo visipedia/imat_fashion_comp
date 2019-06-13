@@ -28,8 +28,6 @@ The competition data can be download on [**Google Driver**](https://drive.google
 
 - [**test.json**](https://drive.google.com/file/d/1E4j7z8lPrdV9uWEAADXn6UPT0dQQ81Bs/view?usp=sharing): images of which the participants need to generate predictions. Only image URLs are provided.
 
-- [**label_map_228.xlsx**](https://drive.google.com/file/d/1n0bz2mRfAoRpGDFx2B9nl39Ige_-RSdv/view?usp=sharing): 228 attribute label map.
-
 - **Training Data** All train/validation/test sets have the same format as shown below:
 
 ```
