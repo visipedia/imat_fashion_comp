@@ -68,7 +68,7 @@ This year, we omit the names of the labels to avoid hand labeling the test image
  ```
 @article{guo2019imaterialist,
   title={The iMaterialist Fashion Attribute Dataset},
-  author={Guo, Sheng and Huang, Weilin and Zhang, Xiao and Srikhanta, Prasanna and Cui, Yin and Li, Yuan and Belongie, Serge and Adam, Hartwig and Scott, Matthew},
+  author={Guo, Sheng and Huang, Weilin and Zhang, Xiao and Srikhanta, Prasanna and Cui, Yin and Li, Yuan and R.Scott, Matthew  and Adam, Hartwig and Belongie, Serge},
   journal={arXiv preprint arXiv:1906.05750},
   year={2019}
 }
