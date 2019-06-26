@@ -1,7 +1,7 @@
 # [iMaterialist Challenge on fashion at FGVC5, CVPR 2018](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018/)
 
 
-![wish](imat1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
+![wish](imat_fashion_attribute.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
 
 As shoppers move online, it would be a dream come true to have products in photos classified automatically. But, automatic product recognition is tough because for the same product, a picture can be taken in different lighting, angles, backgrounds, and levels of occlusion. Meanwhile different fine-grained categories may look very similar, for example, royal blue vs turquoise in color. Many of today’s general-purpose recognition machines simply cannot perceive such subtle differences between photos, yet these differences could be important for shopping decisions.
 
