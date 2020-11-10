@@ -78,14 +78,14 @@ This year, we omit the names of the labels to avoid hand labeling the test image
 
 ## Contact
 
-Sheng Guo, Malong Technologies (sheng@malong.com)
+Sheng Guo, Malong LLC (sheng@malongtech.com)
 
-Weilin Huang, Malong Technologies (whuang@malong.com)
+Weilin Huang, Malong LLC (whuang@malongtech.com)
 
 Xiao Zhang, Google Research (andypassion@google.com)
 
 Yin Cui, Cornell University (ycui@cs.cornell.edu)
 
-Matt Scott, Malong Technologies (mscott@malong.com)
+Matt Scott, Malong LLC (mscott@malongtech.com)
 
 
